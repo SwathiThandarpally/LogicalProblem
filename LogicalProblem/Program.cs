@@ -7,8 +7,12 @@
 
             Console.WriteLine("Diaplaying Logical Programming");
             Console.WriteLine("------------------------------");
-            //UC_1
-            PerfectNumber.DisplayPerfectnumber();
+            ////UC_1
+            //PerfectNumber.DisplayPerfectnumber();
+            //Console.WriteLine("------------------------------");
+            //UC_2
+            PrimeNumber.Prime();
+            Console.WriteLine("------------------------------");
         }
     }
 }
