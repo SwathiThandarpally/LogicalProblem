@@ -14,9 +14,12 @@
             PrimeNumber.Prime();
             Console.WriteLine("------------------------------");
             //UC_3
-            FibonacciSeries series  = new FibonacciSeries();
+            FibonacciSeries series = new FibonacciSeries();
             series.DisplayFibbonacci();
             Console.WriteLine("------------------------------");
+            //UC_4
+            CouponsNumber.Coupon(5);
+
         }
     }
 }
