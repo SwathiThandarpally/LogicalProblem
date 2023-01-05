@@ -19,6 +19,11 @@
             Console.WriteLine("------------------------------");
             //UC_4
             CouponsNumber.Coupon(5);
+            Console.WriteLine("------------------------------");
+            //UC_5
+            ReverseNumber number = new ReverseNumber();
+            number.DisplayReverse();
+            Console.WriteLine("------------------------------");
 
         }
     }
