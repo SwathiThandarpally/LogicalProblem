@@ -24,6 +24,10 @@
             ReverseNumber number = new ReverseNumber();
             number.DisplayReverse();
             Console.WriteLine("------------------------------");
+            //UC_6
+            StopWatch watch = new StopWatch();
+            watch.Dispaly();
+
 
         }
     }
